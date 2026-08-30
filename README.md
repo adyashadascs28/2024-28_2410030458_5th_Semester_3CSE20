@@ -43,24 +43,26 @@ The objective of this internship was to develop practical knowledge of Data Scie
 ---
 ## 📅 Week-wise Internship Curriculum
 
-| Week | Module / Learning Path | Description |
-|------|-------------------------|-------------|
-| 1 | Introduction to RapidMiner | Introduction to the RapidMiner platform and the fundamentals of Data Science, Machine Learning and AI. |
-| 2 | Data Science Professional with RapidMiner | Understanding the professional Data Science workflow and applications of Data Science and Machine Learning. |
-| 3 | Applications & Use Cases – Professional | Understanding how Data Science and Machine Learning can be applied to real-world business problems and use cases. |
-| 4 | Data Engineering – Professional | Working with data access, preparation, transformation and engineering workflows using RapidMiner. |
-| 5 | Machine Learning – Professional | Exploring machine learning workflows, model building, evaluation and prediction using RapidMiner. |
-| 6 | Data Science Master with RapidMiner | Advancing from professional-level concepts to more advanced Data Science and RapidMiner workflows. |
-| 7 | Data Engineering & Machine Learning – Master | Exploring advanced data engineering and machine learning concepts, including more complex workflows and model development. |
-| 8 | Applications & Use Cases & Platform Administration – Master | Understanding advanced applications, deployment/operationalization concepts and RapidMiner platform administration. |
-| Final | Credential Validation | Completion of the required assessments and internship evaluation. |
+| Week | Module | Description |
+|------|--------|-------------|
+| **Week 1** | **Applications & Use Cases Professional** | Learn to identify business problems suitable for AI and machine learning. |
+| **Week 2** | **Data Engineering Professional** | Learn to access, load, transform, and calculate data. |
+| **Week 3** | **Machine Learning Professional** | Build foundational machine learning skills. |
+| **Week 4** | **Data Preparation Master** | Master advanced data handling and automation. |
+| **Week 5** | **Machine Learning Master** | Learn advanced machine learning techniques. |
+| **Week 6** | **Applications & Use Cases Master** | Deploy and monitor ML models. |
+| **Week 7** | **Platform Administration Master** | Configure and manage RapidMiner AI Hub. |
+| **Week 8** | **Platform Administration Master** | Enterprise-level platform operations. |
+| **Final** | **Final Credential Validation / Internship Grade Point Assessment** | Completion of the final internship assessment and credential validation. |
+
+> **Note:** There was no stipend associated with this internship.
 
 ## 📁 Repository Contents
 
 | File | Description |
 |------|-------------|
-| `Internship_Offer_Letter_Adyasha_Das.pdf` | Official internship offer letter |
-| `Internship_Certificate_Adyasha_Das.pdf` | Internship completion certificate |
+| `Data Science Master Virtual Internship Offer Letter` | Official internship offer letter |
+| `Data Science Master Virtual Internship Certificate` | Internship completion certificate |
 | `Internship_Report_Adyasha_Das.pdf` | Detailed internship report |
 | `Internship_PPT_Adyasha_Das.pdf` | Internship presentation |
 | `README.md` | Overview of the internship and repository |
