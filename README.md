@@ -61,10 +61,10 @@ The objective of this internship was to develop practical knowledge of Data Scie
 
 | File | Description |
 |------|-------------|
-| `Data Science Master Virtual Internship Offer Letter` | Official internship offer letter |
-| `Data Science Master Virtual Internship Certificate` | Internship completion certificate |
-| `Internship_Report_Adyasha_Das.pdf` | Detailed internship report |
-| `Internship_PPT_Adyasha_Das.pdf` | Internship presentation |
+| `Data Science Master Virtual Internship Offer Letter.pdf` | Official internship offer letter |
+| `Data Science Master Virtual Internship Certificate.pdf` | Internship completion certificate |
+| `Data Science Master Virtual Internship Report.pdf` | Detailed internship report |
+| `Data Science Master Virtual Internship PPT.pdf` | Internship presentation |
 | `README.md` | Overview of the internship and repository |
 
 ---
